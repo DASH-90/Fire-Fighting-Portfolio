@@ -13,4 +13,5 @@ Welcome! I am a **Mechatronics Engineer** specializing in **Fire Fighting System
 - [NFPA Technical Summaries](./03-NFPA-Summaries-CheatSheets): My personal distilled guides for rapid reference.
 
 ---
-📫 **Contact Me:** [Your Email or LinkedIn Link]
+📫 **Contact Me:** mo7tarek.dash@gmail.com
+
